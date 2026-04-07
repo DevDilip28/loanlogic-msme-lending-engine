@@ -1,5 +1,7 @@
 # 🚀 LoanLogic — MSME Lending Decision System
 
+### Live App: https://loanlogic-beta.vercel.app/
+
 ## 📸 UI Preview
 
 ![LoanLogic UI](./ui)
