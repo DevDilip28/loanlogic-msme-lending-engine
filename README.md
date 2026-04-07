@@ -1,5 +1,9 @@
 # 🚀 LoanLogic — MSME Lending Decision System
 
+## 📸 UI Preview
+
+![LoanLogic UI](./ui)
+
 A full-stack lending decision system built as part of an assignment from **Viito**, designed to evaluate MSME loan applications using a rule-based credit engine.
 
 This project focuses on **clean architecture, explainable decision-making, and real-world financial reasoning**, rather than over-engineering.
