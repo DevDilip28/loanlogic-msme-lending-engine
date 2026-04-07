@@ -25,7 +25,7 @@ const Form = ({ setResult }) => {
     try {
       setLoading(true);
 
-      const res = await axios.post("http://localhost:8080/api/evaluate", {
+      const res = await axios.post("https://loanlogic.onrender.com/api/evaluate", {
         ...formData,
         monthlyRevenue: Number(formData.monthlyRevenue),
         loanAmount: Number(formData.loanAmount),
